@@ -1,3 +1,3 @@
 # Sustavi-elektronickog-ucenja
 
-# Osnove terminala? Might be idea
+#### Osnove terminala? Might be good idea
