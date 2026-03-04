@@ -1,3 +1,3 @@
 # Sustavi-elektronickog-ucenja
 
-#### Osnove terminala? Might be good idea
+Password managers - tečaj za 1 specific
